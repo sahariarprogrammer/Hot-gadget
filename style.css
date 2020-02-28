@@ -1,0 +1,127 @@
+
+
+.logo{
+	
+	float:left;
+	margin:20px 0px;
+}
+
+.navnav{
+	float:right;
+	margin:20px 0px;
+}
+
+
+.carousel-indicators{
+	
+}
+.indicate li{
+	background:yellow;
+	width:100px
+	
+}
+
+
+ button{
+	background:#090F14;
+	color:white;
+	padding:10px 20px;
+	border-radius:15px;
+	text-transform:uppercase;
+	
+}
+
+.cardholder1{
+	margin-top:40px;
+
+}
+.cardholder1 h1{
+	
+}
+
+
+
+
+.cardholder1 a{
+	text-decoration:none;
+	padding:10px;
+	margin-left:1020px;
+	
+	font-size:20px;
+	color:orange;
+	font-weight:bold;
+	
+}
+
+.cardholder1 a:hover{
+	background:#FF1C75;
+	color:white;
+	border-radius:15px;
+}
+.card-deck{
+	margin-top:20px;
+}
+
+
+.carddesign{
+	border:none;
+	box-shadow:2px 2px 4px #8096AB;
+	border-radius:15px;
+		text-align:center;
+		
+}
+
+.carddesign img{
+	padding-top:20px;
+}
+
+.category{
+	
+	padding:10px 0px;
+	margin-top:40px;
+	margin-bottom:30px;
+	padding-left:450px;
+}
+
+.category h1{
+	border-bottom:5px solid orange;
+	width:200px;
+	border-radius:15px;
+}
+
+
+.catbag{
+	text-align:center;
+}
+.catbag{
+	padding-top:120px;
+	margin-left:0px;
+	
+}
+
+.catbag h5{
+	padding:10px;
+}
+
+.cat2nd, .cat3rd{
+	text-align:center;
+}
+
+.cat2nd{
+	padding:20px 0px;
+}
+.cat2nd img{
+	
+}
+.cat2nd h5{
+	padding:10px;
+}
+
+.lastcat{
+	padding-left:80px;
+	
+}
+.lastcat img{
+	width:500px;
+	
+}
